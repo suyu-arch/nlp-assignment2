@@ -5,3 +5,9 @@ __pycache__/
 data/
 runs/
 news.*.zh.shuffled.deduped*
+
+# LaTeX build intermediates
+report/*.aux
+report/*.log
+report/*.out
+report/*.toc
