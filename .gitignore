@@ -1,4 +1,4 @@
-.DS_Store
+﻿.DS_Store
 __pycache__/
 *.pyc
 .venv/
@@ -6,8 +6,6 @@ data/
 runs/
 news.*.zh.shuffled.deduped*
 
-# LaTeX build intermediates
-report/*.aux
-report/*.log
-report/*.out
-report/*.toc
+# Local report artifacts
+report/
+report.zip
